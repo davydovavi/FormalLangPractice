@@ -1,0 +1,15 @@
+integer x = 123;
+float y = 134.45;
+boolean flag = false;
+
+for (integer i=1; i<10; i++)
+{
+   if (x > y)
+   {
+      x = x div y;
+   }
+   else
+   {
+      flag = true;
+   }
+}

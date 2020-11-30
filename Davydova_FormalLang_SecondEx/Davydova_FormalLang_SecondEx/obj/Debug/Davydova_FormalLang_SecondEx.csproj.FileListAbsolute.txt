@@ -1,0 +1,10 @@
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\bin\Debug\Davydova_FormalLang_SecondEx.exe.config
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\bin\Debug\Davydova_FormalLang_SecondEx.exe
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\bin\Debug\Davydova_FormalLang_SecondEx.pdb
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\obj\Debug\Davydova_FormalLang_SecondEx.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\obj\Debug\Davydova_FormalLang_SecondEx.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\obj\Debug\Davydova_FormalLang_SecondEx.csproj.CopyComplete
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\obj\Debug\Davydova_FormalLang_SecondEx.exe
+C:\Users\Виктория\source\repos\Davydova_FormalLang_SecondEx\Davydova_FormalLang_SecondEx\obj\Debug\Davydova_FormalLang_SecondEx.pdb

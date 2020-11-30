@@ -1,0 +1,133 @@
+{
+  "MachineTransitions": [
+    {
+      "Key": {
+        "Key": 1,
+        "Value": "t"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 2,
+        "Value": "r"
+      },
+      "Value": 3
+    },
+    {
+      "Key": {
+        "Key": 3,
+        "Value": "u"
+      },
+      "Value": 4
+    },
+    {
+      "Key": {
+        "Key": 4,
+        "Value": "e"
+      },
+      "Value": 5
+    },
+    {
+      "Key": {
+        "Key": 1,
+        "Value": "f"
+      },
+      "Value": 6
+    },
+    {
+      "Key": {
+        "Key": 6,
+        "Value": "a"
+      },
+      "Value": 7
+    },
+    {
+      "Key": {
+        "Key": 7,
+        "Value": "l"
+      },
+      "Value": 8
+    },
+    {
+      "Key": {
+        "Key": 8,
+        "Value": "s"
+      },
+      "Value": 9
+    },
+    {
+      "Key": {
+        "Key": 9,
+        "Value": "e"
+      },
+      "Value": 10
+    },
+	{
+      "Key": {
+        "Key": 1,
+        "Value": "n"
+      },
+      "Value": 11
+    },
+	{
+      "Key": {
+        "Key": 11,
+        "Value": "o"
+      },
+      "Value": 12
+    },
+	{
+      "Key": {
+        "Key": 12,
+        "Value": "t"
+      },
+      "Value": 13
+    },
+	{
+      "Key": {
+        "Key": 1,
+        "Value": "a"
+      },
+      "Value": 14
+    },
+	{
+      "Key": {
+        "Key": 14,
+        "Value": "n"
+      },
+      "Value": 15
+    },
+	{
+      "Key": {
+        "Key": 15,
+        "Value": "d"
+      },
+      "Value": 16
+    },
+	{
+      "Key": {
+        "Key": 1,
+        "Value": "o"
+      },
+      "Value": 17
+    },
+	{
+      "Key": {
+        "Key": 17,
+        "Value": "r"
+      },
+      "Value": 18
+    }
+  ],
+  "currentState": 0,
+  "startState": 1,
+  "priority": 3,
+  "stopState": [
+    5,
+    10,
+	13,
+	16,
+	18
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\bin\Debug\Davydova_FormalLang_FirstEx.exe.config
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\bin\Debug\Davydova_FormalLang_FirstEx.exe
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\bin\Debug\Davydova_FormalLang_FirstEx.pdb
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\obj\Debug\Davydova_FormalLang_FirstEx.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\obj\Debug\Davydova_FormalLang_FirstEx.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\obj\Debug\Davydova_FormalLang_FirstEx.exe
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\obj\Debug\Davydova_FormalLang_FirstEx.pdb
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Виктория\source\repos\Davydova_FormalLang_FirstEx\Davydova_FormalLang_FirstEx\obj\Debug\Davydova_FormalLang_FirstEx.csproj.CopyComplete
